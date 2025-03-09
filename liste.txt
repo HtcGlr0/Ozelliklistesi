@@ -2,3 +2,4 @@
 2-Canlı Yayın Yapma
 3-DM Gönderme
 4-Fotoğraf Beğenme
+5-Video İzleme
