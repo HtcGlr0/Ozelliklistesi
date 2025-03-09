@@ -1,5 +1,5 @@
-1-Fotoğraf Paylaşma
-2-Canlı Yayın Yapma
 3-DM Gönderme
+2-Canlı Yayın Yapma
+1-Fotoğraf Paylaşma
 4-Fotoğraf Beğenme
 5-Video İzleme
